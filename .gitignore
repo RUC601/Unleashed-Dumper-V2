@@ -1,0 +1,8 @@
+/build/
+/dist/
+/output/
+/logs/
+/config.local/
+/.vs/
+*.user
+*.suo
